@@ -1,0 +1,12 @@
+node_modules
+
+*.zip
+
+*.bak
+
+# vim temporary files
+*.sw?
+*~
+
+# Log files
+*.log
